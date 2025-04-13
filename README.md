@@ -1,1 +1,1 @@
-My personal -useless- archive of C++ solutions of chapter questions throughout learncpp.com
+Personal archive of C++ solutions on learncpp.com
